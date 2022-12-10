@@ -24,6 +24,7 @@
     <ProjectGuid>{1e046fc6-3028-44e9-9b6d-782389092082}</ProjectGuid>
     <RootNamespace>Loops</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Loops - Control Flow</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
